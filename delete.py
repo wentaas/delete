@@ -1,9 +1,8 @@
-import discord
-import datetime
 import logging
+import discord
 
 bot = discord.Client()
-token = "NzA4NzE2MzUzNTEwNzAzMjE0.Xrbz9Q.ipVNrtijhh5eNNmCh3EeozuR7Is"
+token = "not set"
 
 logging.basicConfig(level='INFO')
 
